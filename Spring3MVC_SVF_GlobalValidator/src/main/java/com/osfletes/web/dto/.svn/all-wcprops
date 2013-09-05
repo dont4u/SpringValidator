@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/web/dto
+END
+AnuncioDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/web/dto/AnuncioDTO.java
+END
+DireccionDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/55/trunk/osfletes/src/main/java/com/osfletes/web/dto/DireccionDTO.java
+END
+RoleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/105/trunk/osfletes/src/main/java/com/osfletes/web/dto/RoleDTO.java
+END
+SignupClientDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/103/trunk/osfletes/src/main/java/com/osfletes/web/dto/SignupClientDTO.java
+END
+RoleFilterDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/105/trunk/osfletes/src/main/java/com/osfletes/web/dto/RoleFilterDTO.java
+END
+OfferFilterDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/web/dto/OfferFilterDTO.java
+END
+AnuncioMultipleDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/web/dto/AnuncioMultipleDTO.java
+END
+FiltroAnuncioDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/114/trunk/osfletes/src/main/java/com/osfletes/web/dto/FiltroAnuncioDTO.java
+END
+ContractDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/web/dto/ContractDTO.java
+END
+OfertaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/web/dto/OfertaDTO.java
+END
+SignupProviderDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/103/trunk/osfletes/src/main/java/com/osfletes/web/dto/SignupProviderDTO.java
+END
+GenericFilterDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/115/trunk/osfletes/src/main/java/com/osfletes/web/dto/GenericFilterDTO.java
+END
+ContractFilterDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/web/dto/ContractFilterDTO.java
+END
+ClienteDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/71/trunk/osfletes/src/main/java/com/osfletes/web/dto/ClienteDTO.java
+END
+UserFilterDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/104/trunk/osfletes/src/main/java/com/osfletes/web/dto/UserFilterDTO.java
+END
+ProviderAnnounceFilterDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/web/dto/ProviderAnnounceFilterDTO.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/interfaces
+END
+IProveedorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/107/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IProveedorService.java
+END
+IGenericService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/112/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IGenericService.java
+END
+IAnuncioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IAnuncioService.java
+END
+IContractService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IContractService.java
+END
+IUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/104/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IUserService.java
+END
+IService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/53/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IService.java
+END
+IDireccionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/53/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IDireccionService.java
+END
+IOfertaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IOfertaService.java
+END
+IRoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/105/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IRoleService.java
+END
+IMailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IMailService.java
+END
+IClienteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/107/trunk/osfletes/src/main/java/com/osfletes/service/interfaces/IClienteService.java
+END

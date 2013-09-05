@@ -1,0 +1,187 @@
+body{
+	background-color: #f4f3f8;
+	margin: 0px;
+}
+
+.main_container{
+	width: 940px;
+	overflow:hidden;
+	margin: auto;
+	background-color: #D4CAF9;
+	margin-top: 20px;
+}
+
+* {
+	font-family: Arial;
+	font-size: 13px;	
+}
+
+.border-round{
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+.float-left{
+	float: left;
+}
+
+.header{
+	line-height: 100px;
+	text-align: center;
+	vertical-align: middle;
+	background-color: #5F528F;
+	height: 100px;
+	margin: 5px;
+}
+
+.header .titulo{
+	font-family: Arial;
+	font-size: 20px;
+	color: white;
+}
+
+.header .subtitulo{
+	font-family: Arial;
+	font-size: 16px;
+	color: white;
+}
+
+.header .logo{
+	width: 245px;
+	height: 100px;
+	background-image: url("../imagenes/camion-rezise.png");
+	background-color: transparent;
+	margin-right: 10px;
+	margin-left: auto;
+}
+
+.footer{
+	line-height: 100px;
+	text-align: center;
+	vertical-align: middle;
+	margin: 5px;	
+	height: 100px;
+}
+
+.footer .footer-text{
+	font-family: Arial;
+	font-size: 16px;
+	color: gray;
+}
+
+.footer .division-line{
+	background-image: url("../imagenes/guion.png");
+	background-position: 0px 0px;
+	background-repeat: repeat-x;
+	width: 700px;
+	height: 3px;
+	margin: auto;
+}
+
+.body{
+	width: 90%;
+	margin: auto;
+}
+
+.button-class{
+	background-color: gray;
+	color: white;
+	font-weight: bold;
+	padding-left : 30px;
+	padding-right : 30px;
+	padding-top: 7px;
+	padding-bottom:7px;
+	line-height:30px;
+	text-align: center;
+	text-transform: uppercase;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-ms-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+*.button-class:hover{
+	background-color: #525252;
+}
+
+.tiny-button-class{
+	background-color: gray;
+	color: white;
+	font-weight: bold;
+	font-size: 11px;
+	padding-left : 7px;
+	padding-right : 7px;
+	padding-top: 3px;
+	padding-bottom:3px;
+	line-height:20px;
+	text-align: center;
+	text-transform: uppercase;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-ms-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	cursor: pointer;
+	text-decoration: none;
+	
+}
+
+*.tiny-button-class:hover{
+	background-color: #525252;
+}
+
+/*
+	FORM STYLE
+*/
+
+.form {
+    border: 1px dotted gray;
+    padding: 20px;
+    margin-bottom: 5px;
+}
+.form_row label {
+    font-family: arial;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+.form_row input {
+    font-family: arial;
+    font-size: 13px;
+}
+.form_row {
+    padding: 10px;
+    width: 100%;
+}
+
+.form_row .name {
+    width: 100px;
+}
+.form .button_container {
+    margin: auto;
+    text-align: right;
+}
+
+.form div.error{
+	border: solid;
+	border-color: red;
+	border-width:1px;
+	background-color: #f8abab;
+	font-family: Arial;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+.header-buttons-container{
+	float: right;
+	padding: 10px;
+}
+
+.header-buttons-container .tiny-button-class{
+	margin-right: 2px;
+}
+

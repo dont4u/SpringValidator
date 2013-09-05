@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE tiles-definitions PUBLIC
+       "-//Apache Software Foundation//DTD Tiles Configuration 2.0//EN"
+       "http://tiles.apache.org/dtds/tiles-config_2_0.dtd">
+<tiles-definitions>
+    <definition name="base.definition"
+        template="/WEB-INF/jsp/layout.jsp">
+        <put-attribute name="title" value="" />
+        <put-attribute name="header" value="/WEB-INF/jsp/header.jsp" />
+        <put-attribute name="body" value="" />
+        <put-attribute name="footer" value="/WEB-INF/jsp/footer.jsp" />
+    </definition>
+    
+    <definition name="login" extends="base.definition">
+        <put-attribute name="title" value="Login" />
+        <put-attribute name="body" value="/WEB-INF/jsp/login.jsp" />
+    </definition>
+    
+    <definition name="error" extends="base.definition">
+        <put-attribute name="title" value="Error" />
+        <put-attribute name="body" value="/WEB-INF/jsp/error.jsp" />
+    </definition>
+ 
+	<definition name="signup-client" extends="base.definition">
+		<put-attribute name="title" value="signup" />
+        <put-attribute name="body" value="/WEB-INF/jsp/signup-client.jsp" />
+    </definition>
+    
+    <definition name="signup-provider" extends="base.definition">
+		<put-attribute name="title" value="signup" />
+        <put-attribute name="body" value="/WEB-INF/jsp/signup-provider.jsp" />
+    </definition>
+
+    <definition name="client-inbox" extends="base.definition">
+		<put-attribute name="title" value="bandeja proveedor" />
+        <put-attribute name="body" value="/WEB-INF/jsp/client-inbox.jsp" />
+    </definition>
+    
+    <definition name="provider-inbox" extends="base.definition">
+		<put-attribute name="title" value="bandeja proveedor" />
+        <put-attribute name="body" value="/WEB-INF/jsp/provider-inbox.jsp" />
+    </definition>
+    
+    <definition name="admin-inbox" extends="base.definition">
+        <put-attribute name="title" value="Admin Board" />
+        <put-attribute name="body" value="/WEB-INF/jsp/admin-board.jsp" />
+    </definition>
+    
+     <definition name="index" extends="base.definition">
+        <put-attribute name="title" value="OSFLETES" />
+        <put-attribute name="body" value="/WEB-INF/jsp/index.jsp" />
+    </definition>
+    
+    <definition name="signup" extends="base.definition">
+        <put-attribute name="title" value="OSFLETES" />
+        <put-attribute name="body" value="/WEB-INF/jsp/signup.jsp" />
+    </definition>
+    
+	<definition name="select-offer" extends="base.definition">
+        <put-attribute name="title" value="OSFLETES" />
+        <put-attribute name="body" value="/WEB-INF/jsp/select-offer.jsp" />
+    </definition>
+    
+    <definition name="create-announcement" extends="base.definition">
+        <put-attribute name="title" value="OSFLETES" />
+        <put-attribute name="body" value="/WEB-INF/jsp/create-announcement.jsp" />
+    </definition>
+    
+    <definition name="contract" extends="base.definition">
+        <put-attribute name="title" value="OSFLETES" />
+        <put-attribute name="body" value="/WEB-INF/jsp/contract.jsp" />
+    </definition>
+    
+    
+ 	
+</tiles-definitions>

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model
+END
+Direccion.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/60/trunk/osfletes/src/main/java/com/osfletes/model/Direccion.java
+END
+AnuncioWFStateEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/115/trunk/osfletes/src/main/java/com/osfletes/model/AnuncioWFStateEnum.java
+END
+Oferta.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model/Oferta.java
+END
+Cliente.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model/Cliente.java
+END
+OfertaWFStateEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model/OfertaWFStateEnum.java
+END
+Proveedor.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model/Proveedor.java
+END
+ProcesarNoSeleccionados.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model/ProcesarNoSeleccionados.java
+END
+AnuncioWFTransactionsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/108/trunk/osfletes/src/main/java/com/osfletes/model/AnuncioWFTransactionsEnum.java
+END
+FiltroBusqueda.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/83/trunk/osfletes/src/main/java/com/osfletes/model/FiltroBusqueda.java
+END
+AnuncioMultipleLocalizado.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model/AnuncioMultipleLocalizado.java
+END
+OfertaWFTransactionsEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model/OfertaWFTransactionsEnum.java
+END
+Anuncio.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model/Anuncio.java
+END
+Contract.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/model/Contract.java
+END

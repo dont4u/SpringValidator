@@ -1,0 +1,94 @@
+[2013-09-04 10:53:39 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-09-04 10:53:39 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_Valid", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/sca-translate.log", "-source", "1.6", "-cp", "/Users/alvaro/.m2/repository/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/alvaro/.m2/repository/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/alvaro/.m2/repository/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.jar:/Users/alvaro/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar:/Users/alvaro/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar", "-java-build-dir", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/classes", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java"]
+[2013-09-04 10:53:39 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-09-04 10:53:40 Thread-12 Master INFO]
+Translating 3 java files
+[2013-09-04 10:53:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java/com/mkyong/common/controller/SignUpController.java
+[2013-09-04 10:53:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java/com/mkyong/common/model/Customer.java
+[2013-09-04 10:53:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java/com/mkyong/common/service/CustomerManager.java
+[2013-09-04 10:53:40 Thread-12 Master INFO]
+Front End complete
+[2013-09-04 10:53:43 Thread-12 Master WARNING 101]
+File /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC not found
+[2013-09-04 10:53:43 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-09-04 10:53:43 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_Valid", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/sca-translate.log", "-source", "1.6", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC", "-cp", ":/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC/WEB-INF/classes", "-extdirs", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC/WEB-INF/lib"]
+[2013-09-04 10:53:43 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-09-04 10:53:43 Thread-12 Master INFO]
+Front End complete
+[2013-09-04 18:50:54 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-09-04 18:50:54 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_Valid", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/sca-translate.log", "-source", "1.6", "-cp", "/Users/alvaro/.m2/repository/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/alvaro/.m2/repository/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/alvaro/.m2/repository/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.jar:/Users/alvaro/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar:/Users/alvaro/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar", "-java-build-dir", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/classes", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java"]
+[2013-09-04 18:50:54 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-09-04 18:50:54 Thread-12 Master INFO]
+Translating 3 java files
+[2013-09-04 18:50:54 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java/com/mkyong/common/controller/SignUpController.java
+[2013-09-04 18:50:54 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java/com/mkyong/common/model/Customer.java
+[2013-09-04 18:50:54 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java/com/mkyong/common/service/CustomerManager.java
+[2013-09-04 18:50:55 Thread-12 Master INFO]
+Front End complete
+[2013-09-04 18:50:57 Thread-12 Master WARNING 101]
+File /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC not found
+[2013-09-04 18:50:57 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-09-04 18:50:57 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_Valid", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/sca-translate.log", "-source", "1.6", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC", "-cp", ":/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC/WEB-INF/classes", "-extdirs", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC/WEB-INF/lib"]
+[2013-09-04 18:50:57 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-09-04 18:50:57 Thread-12 Master INFO]
+Front End complete
+[2013-09-05 15:24:44 INFO]
+Fortify Static Code Analyzer 5.15.0.0059
+[2013-09-05 15:24:44 INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_Valid", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/sca-translate.log", "-source", "1.6", "-cp", "/Users/alvaro/.m2/repository/org/springframework/spring-core/3.0.5.RELEASE/spring-core-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-asm/3.0.5.RELEASE/spring-asm-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/alvaro/.m2/repository/org/springframework/spring-web/3.0.5.RELEASE/spring-web-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/alvaro/.m2/repository/org/springframework/spring-beans/3.0.5.RELEASE/spring-beans-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-context/3.0.5.RELEASE/spring-context-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-webmvc/3.0.5.RELEASE/spring-webmvc-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-context-support/3.0.5.RELEASE/spring-context-support-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-expression/3.0.5.RELEASE/spring-expression-3.0.5.RELEASE.jar:/Users/alvaro/.m2/repository/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.jar:/Users/alvaro/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar:/Users/alvaro/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar", "-java-build-dir", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/classes", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java"]
+[2013-09-05 15:24:44 INFO]
+VM Args:
+"-Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx8000M -Xss1M -Xms300M -client -d64"
+[2013-09-05 15:24:44 WARNING 1012]
+Fortify Static Code Analyzer is running under an unsupported Java Virtual Machine (Oracle Corporation 1.7.0_21)
+[2013-09-05 15:24:45 INFO]
+Translating 3 java files
+[2013-09-05 15:24:45 INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java/com/mkyong/common/controller/SignUpController.java
+[2013-09-05 15:24:45 INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java/com/mkyong/common/model/Customer.java
+[2013-09-05 15:24:45 INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/src/main/java/com/mkyong/common/service/CustomerManager.java
+[2013-09-05 15:24:45 INFO]
+Front End complete
+[2013-09-05 15:24:48 WARNING 101]
+File /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC not found
+[2013-09-05 15:24:48 INFO]
+Fortify Static Code Analyzer 5.15.0.0059
+[2013-09-05 15:24:48 INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_Valid", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/sca-translate.log", "-source", "1.6", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC", "-cp", ":/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC/WEB-INF/classes", "-extdirs", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_Valid/target/SpringMVC/WEB-INF/lib"]
+[2013-09-05 15:24:48 INFO]
+VM Args:
+"-Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx8000M -Xss1M -Xms300M -client -d64"
+[2013-09-05 15:24:48 WARNING 1012]
+Fortify Static Code Analyzer is running under an unsupported Java Virtual Machine (Oracle Corporation 1.7.0_21)
+[2013-09-05 15:24:48 INFO]
+Front End complete

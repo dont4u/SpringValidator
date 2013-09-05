@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/licitaciones
+END
+Estado.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/licitaciones/Estado.java
+END
+StateAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/licitaciones/StateAware.java
+END
+EstadoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/licitaciones/EstadoImpl.java
+END
+WorkflowLicitacionFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/12/trunk/osfletes/src/main/java/com/licitaciones/WorkflowLicitacionFactoryImpl.java
+END
+Transaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/12/trunk/osfletes/src/main/java/com/licitaciones/Transaction.java
+END
+TransactionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12/trunk/osfletes/src/main/java/com/licitaciones/TransactionImpl.java
+END
+MainClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/licitaciones/MainClass.java
+END
+Workflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/licitaciones/Workflow.java
+END
+EstadoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/licitaciones/EstadoAction.java
+END

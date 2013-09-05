@@ -1,0 +1,22 @@
+<%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix = "spring" uri = "http://www.springframework.org/tags" %>
+<head>
+
+	<script type="text/javascript" src="<c:url value="/static/js/tabs.js"/>"></script>
+	<link rel="stylesheet" type="text/css" href="<c:url value="/static/css/tabs.css"/>"></link>
+	<script type="text/javascript" src="<c:url value="/static/js/provider-inbox.js"/>"></script>
+
+</head>
+
+<div id="tabs_container">
+<ul class="tabs">
+    <li class="rounded"><a href="in-progress"><spring:message code="provider.inbox.tab.profile"/></a></li>
+    <li class="rounded"><a href="provider-announcements"><spring:message code="provider.inbox.tab.announcement"/></a></li>
+    <li class="rounded"><a href="offers"><spring:message code="provider.inbox.tab.offers"/></a></li>
+    <li class="rounded"><a href="get-contracts"><spring:message code="provider.inbox.tab.contracts"/></a></li>
+</ul>
+
+<div class="tab_container">
+</div>
+</div>

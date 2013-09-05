@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/mapper
+END
+ContractMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/mapper/ContractMapper.java
+END
+DireccionMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/osfletes/src/main/java/com/osfletes/mapper/DireccionMapper.java
+END
+OfferMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/mapper/OfferMapper.java
+END
+ClienteMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/mapper/ClienteMapper.java
+END
+AnuncioMultipleMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/73/trunk/osfletes/src/main/java/com/osfletes/mapper/AnuncioMultipleMapper.java
+END
+IMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/osfletes/src/main/java/com/osfletes/mapper/IMapper.java
+END

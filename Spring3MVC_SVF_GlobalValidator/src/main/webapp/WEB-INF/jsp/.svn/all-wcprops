@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp
+END
+offers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/offers.jsp
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/104/trunk/osfletes/src/main/webapp/WEB-INF/jsp/header.jsp
+END
+create-announcement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/WEB-INF/jsp/create-announcement.jsp
+END
+client-announcements-search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/112/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-announcements-search.jsp
+END
+client-deleted-announcements.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-deleted-announcements.jsp
+END
+signup-provider.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/104/trunk/osfletes/src/main/webapp/WEB-INF/jsp/signup-provider.jsp
+END
+admin-constants.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/105/trunk/osfletes/src/main/webapp/WEB-INF/jsp/admin-constants.jsp
+END
+contracts-search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/contracts-search.jsp
+END
+provider-announcements.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-announcements.jsp
+END
+signup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/104/trunk/osfletes/src/main/webapp/WEB-INF/jsp/signup.jsp
+END
+logbar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/logbar.jsp
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/105/trunk/osfletes/src/main/webapp/WEB-INF/jsp/index.jsp
+END
+in-progress.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/107/trunk/osfletes/src/main/webapp/WEB-INF/jsp/in-progress.jsp
+END
+provider-announcements-search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-announcements-search.jsp
+END
+provider-non-awarded-offers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-non-awarded-offers.jsp
+END
+private-common-constants.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/private-common-constants.jsp
+END
+commons.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/WEB-INF/jsp/commons.jsp
+END
+select-offer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/select-offer.jsp
+END
+client-offer-search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-offer-search.jsp
+END
+provider-created-offers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-created-offers.jsp
+END
+provider-awarded-offers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-awarded-offers.jsp
+END
+client-canceled-announcements.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-canceled-announcements.jsp
+END
+modal-pop.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/105/trunk/osfletes/src/main/webapp/WEB-INF/jsp/modal-pop.jsp
+END
+client-constants.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-constants.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/error.jsp
+END
+announcement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/announcement.jsp
+END
+client-inbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-inbox.jsp
+END
+provider-offer-search.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-offer-search.jsp
+END
+provider-canceled-by-client-offers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-canceled-by-client-offers.jsp
+END
+anuncio.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/54/trunk/osfletes/src/main/webapp/WEB-INF/jsp/anuncio.jsp
+END
+footer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/47/trunk/osfletes/src/main/webapp/WEB-INF/jsp/footer.jsp
+END
+abm-role.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/107/trunk/osfletes/src/main/webapp/WEB-INF/jsp/abm-role.jsp
+END
+client-created-announcements.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-created-announcements.jsp
+END
+contracts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/contracts.jsp
+END
+client-closed-announcements.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-closed-announcements.jsp
+END
+ofertar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/54/trunk/osfletes/src/main/webapp/WEB-INF/jsp/ofertar.jsp
+END
+client-prov-selected-announcements.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-prov-selected-announcements.jsp
+END
+provider-constants.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-constants.jsp
+END
+history-announce.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/111/trunk/osfletes/src/main/webapp/WEB-INF/jsp/history-announce.jsp
+END
+client-published-announcements.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/WEB-INF/jsp/client-published-announcements.jsp
+END
+provider-inbox.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-inbox.jsp
+END
+anuncioMultiple.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/50/trunk/osfletes/src/main/webapp/WEB-INF/jsp/anuncioMultiple.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/login.jsp
+END
+provider-canceled-offers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/WEB-INF/jsp/provider-canceled-offers.jsp
+END
+busqueda_anuncios.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/54/trunk/osfletes/src/main/webapp/WEB-INF/jsp/busqueda_anuncios.jsp
+END
+busqueda.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/105/trunk/osfletes/src/main/webapp/WEB-INF/jsp/busqueda.jsp
+END
+abm-user.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/105/trunk/osfletes/src/main/webapp/WEB-INF/jsp/abm-user.jsp
+END
+announcements-history.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/WEB-INF/jsp/announcements-history.jsp
+END
+admin-board.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/111/trunk/osfletes/src/main/webapp/WEB-INF/jsp/admin-board.jsp
+END
+layout.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/104/trunk/osfletes/src/main/webapp/WEB-INF/jsp/layout.jsp
+END
+public-common-constants.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/105/trunk/osfletes/src/main/webapp/WEB-INF/jsp/public-common-constants.jsp
+END
+signup-client.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/103/trunk/osfletes/src/main/webapp/WEB-INF/jsp/signup-client.jsp
+END

@@ -1,0 +1,72 @@
+[2013-09-01 18:07:13 INFO]
+Fortify Static Code Analyzer 5.15.0.0059
+[2013-09-01 18:07:13 INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Struts1Validation", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/sca-translate.log", "-source", "1.5", "-cp", "/Users/alvaro/.m2/repository/javax/javaee-api/6.0/javaee-api-6.0.jar:/Users/alvaro/.m2/repository/org/apache/struts/struts-core/1.3.10/struts-core-1.3.10.jar:/Users/alvaro/.m2/repository/antlr/antlr/2.7.2/antlr-2.7.2.jar:/Users/alvaro/.m2/repository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar:/Users/alvaro/.m2/repository/commons-chain/commons-chain/1.2/commons-chain-1.2.jar:/Users/alvaro/.m2/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/Users/alvaro/.m2/repository/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar:/Users/alvaro/.m2/repository/oro/oro/2.0.8/oro-2.0.8.jar:/Users/alvaro/.m2/repository/org/apache/struts/struts-taglib/1.3.10/struts-taglib-1.3.10.jar:/Users/alvaro/.m2/repository/org/apache/struts/struts-extras/1.3.10/struts-extras-1.3.10.jar:/Users/alvaro/.m2/repository/commons-validator/commons-validator/1.3.1/commons-validator-1.3.1.jar", "-java-build-dir", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/classes", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java"]
+[2013-09-01 18:07:13 INFO]
+VM Args:
+"-Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx8000M -Xss1M -Xms300M -client -d64"
+[2013-09-01 18:07:13 WARNING 1012]
+Fortify Static Code Analyzer is running under an unsupported Java Virtual Machine (Oracle Corporation 1.7.0_21)
+[2013-09-01 18:07:13 INFO]
+Translating 2 java files
+[2013-09-01 18:07:13 INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java/com/mkyong/user/action/UserAction.java
+[2013-09-01 18:07:13 INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java/com/mkyong/user/form/UserForm.java
+[2013-09-01 18:07:13 WARNING]
+Unable to resolve function call: getEmail at: /Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java/com/mkyong/user/action/UserAction.java:19:13
+[2013-09-01 18:07:13 INFO 1212]
+Unable to resolve function 'getEmail' at (/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java/com/mkyong/user/action/UserAction.java:19:13)
+[2013-09-01 18:07:14 INFO]
+Front End complete
+[2013-09-01 18:07:16 WARNING 101]
+File /Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/StrutsExample not found
+[2013-09-01 18:07:16 INFO]
+Fortify Static Code Analyzer 5.15.0.0059
+[2013-09-01 18:07:16 INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Struts1Validation", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/sca-translate.log", "-source", "1.5", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/StrutsExample", "-cp", ":/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/StrutsExample/WEB-INF/classes", "-extdirs", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/StrutsExample/WEB-INF/lib"]
+[2013-09-01 18:07:16 INFO]
+VM Args:
+"-Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx8000M -Xss1M -Xms300M -client -d64"
+[2013-09-01 18:07:16 WARNING 1012]
+Fortify Static Code Analyzer is running under an unsupported Java Virtual Machine (Oracle Corporation 1.7.0_21)
+[2013-09-01 18:07:16 INFO]
+Front End complete
+[2013-09-01 18:11:04 INFO]
+Fortify Static Code Analyzer 5.15.0.0059
+[2013-09-01 18:11:04 INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Struts1Validation", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/sca-translate.log", "-source", "1.5", "-cp", "/Users/alvaro/.m2/repository/javax/javaee-api/6.0/javaee-api-6.0.jar:/Users/alvaro/.m2/repository/org/apache/struts/struts-core/1.3.10/struts-core-1.3.10.jar:/Users/alvaro/.m2/repository/antlr/antlr/2.7.2/antlr-2.7.2.jar:/Users/alvaro/.m2/repository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar:/Users/alvaro/.m2/repository/commons-chain/commons-chain/1.2/commons-chain-1.2.jar:/Users/alvaro/.m2/repository/commons-digester/commons-digester/1.8/commons-digester-1.8.jar:/Users/alvaro/.m2/repository/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.jar:/Users/alvaro/.m2/repository/oro/oro/2.0.8/oro-2.0.8.jar:/Users/alvaro/.m2/repository/org/apache/struts/struts-taglib/1.3.10/struts-taglib-1.3.10.jar:/Users/alvaro/.m2/repository/org/apache/struts/struts-extras/1.3.10/struts-extras-1.3.10.jar:/Users/alvaro/.m2/repository/commons-validator/commons-validator/1.3.1/commons-validator-1.3.1.jar", "-java-build-dir", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/classes", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java"]
+[2013-09-01 18:11:04 INFO]
+VM Args:
+"-Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx8000M -Xss1M -Xms300M -client -d64"
+[2013-09-01 18:11:04 WARNING 1012]
+Fortify Static Code Analyzer is running under an unsupported Java Virtual Machine (Oracle Corporation 1.7.0_21)
+[2013-09-01 18:11:05 INFO]
+Translating 2 java files
+[2013-09-01 18:11:05 INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java/com/mkyong/user/action/UserAction.java
+[2013-09-01 18:11:05 INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java/com/mkyong/user/form/UserForm.java
+[2013-09-01 18:11:05 WARNING]
+Unable to resolve function call: getEmail at: /Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java/com/mkyong/user/action/UserAction.java:20:13
+[2013-09-01 18:11:05 INFO 1212]
+Unable to resolve function 'getEmail' at (/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/src/main/java/com/mkyong/user/action/UserAction.java:20:13)
+[2013-09-01 18:11:05 INFO]
+Front End complete
+[2013-09-01 18:11:08 WARNING 101]
+File /Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/StrutsExample not found
+[2013-09-01 18:11:08 INFO]
+Fortify Static Code Analyzer 5.15.0.0059
+[2013-09-01 18:11:08 INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Struts1Validation", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/sca-translate.log", "-source", "1.5", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/StrutsExample", "-cp", ":/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/StrutsExample/WEB-INF/classes", "-extdirs", "/Users/alvaro/Development/GitRepos/SpringValidators/Struts1Validation/target/StrutsExample/WEB-INF/lib"]
+[2013-09-01 18:11:08 INFO]
+VM Args:
+"-Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx8000M -Xss1M -Xms300M -client -d64"
+[2013-09-01 18:11:08 WARNING 1012]
+Fortify Static Code Analyzer is running under an unsupported Java Virtual Machine (Oracle Corporation 1.7.0_21)
+[2013-09-01 18:11:08 INFO]
+Front End complete

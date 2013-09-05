@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/116/trunk/osfletes/src/main/resources
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/116/trunk/osfletes/src/main/resources/messages.properties
+END
+application-context.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/116/trunk/osfletes/src/main/resources/application-context.xml
+END
+application-context-services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/58/trunk/osfletes/src/main/resources/application-context-services.xml
+END
+application-context-mvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/116/trunk/osfletes/src/main/resources/application-context-mvc.xml
+END
+errors.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/116/trunk/osfletes/src/main/resources/errors.properties
+END
+application-context-quartz.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/110/trunk/osfletes/src/main/resources/application-context-quartz.xml
+END
+workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/116/trunk/osfletes/src/main/resources/workflow.xml
+END
+application-context-security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/116/trunk/osfletes/src/main/resources/application-context-security.xml
+END
+application-context-mappers.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/116/trunk/osfletes/src/main/resources/application-context-mappers.xml
+END
+application-context-validators.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/105/trunk/osfletes/src/main/resources/application-context-validators.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/116/trunk/osfletes/src/main/resources/hibernate.cfg.xml
+END

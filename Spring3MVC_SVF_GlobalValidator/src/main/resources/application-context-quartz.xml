@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	
+	<!-- quartz 1.6.1 -->
+	
+
+  <bean name="jobDetail" class="org.springframework.scheduling.quartz.JobDetailBean">
+    <property name="jobClass" value="com.osfletes.quartz.ProcesarAnunciosVencidosJob" />
+    <property name="jobDataAsMap">
+      <map>
+        <entry key="anuncioService">
+          <ref bean="anuncioMultipleLocalizadoService" />
+        </entry>
+      </map>
+    </property>
+  </bean>
+  
+  
+  <bean id="jobDetailTrigger" class="org.springframework.scheduling.quartz.CronTriggerBean">
+    <property name="jobDetail" ref="jobDetail" />
+    <property name="cronExpression" value="0/30 * * * * ?" />
+  </bean>
+  
+  
+  <bean id="schedulerFactoryBean"
+    class="org.springframework.scheduling.quartz.SchedulerFactoryBean">
+    <property name="triggers">
+      <list>
+        <ref bean="jobDetailTrigger" />
+      </list>
+    </property>
+  </bean>
+  
+  	
+</beans>

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service
+END
+ClientService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/108/trunk/osfletes/src/main/java/com/osfletes/service/ClientService.java
+END
+UserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/104/trunk/osfletes/src/main/java/com/osfletes/service/UserService.java
+END
+DireccionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/53/trunk/osfletes/src/main/java/com/osfletes/service/DireccionService.java
+END
+OfertaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/OfertaService.java
+END
+RoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/105/trunk/osfletes/src/main/java/com/osfletes/service/RoleService.java
+END
+GenericServiceImplementacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/112/trunk/osfletes/src/main/java/com/osfletes/service/GenericServiceImplementacion.java
+END
+MailService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/MailService.java
+END
+ServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/ServiceLocator.java
+END
+ProveedorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/107/trunk/osfletes/src/main/java/com/osfletes/service/ProveedorService.java
+END
+AnuncioMultipleLocalizadoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/AnuncioMultipleLocalizadoService.java
+END
+AnuncioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/83/trunk/osfletes/src/main/java/com/osfletes/service/AnuncioService.java
+END
+ContractService.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/service/ContractService.java
+END

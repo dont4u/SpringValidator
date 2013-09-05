@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js
+END
+menu.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/105/trunk/osfletes/src/main/webapp/static/js/menu.js
+END
+provider-announcements.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/provider-announcements.js
+END
+signup.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/105/trunk/osfletes/src/main/webapp/static/js/signup.js
+END
+client-published-announcements.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/114/trunk/osfletes/src/main/webapp/static/js/client-published-announcements.js
+END
+provider-canceled-offers.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/provider-canceled-offers.js
+END
+provider-non-awarded-offers.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/provider-non-awarded-offers.js
+END
+ofertastable.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/104/trunk/osfletes/src/main/webapp/static/js/ofertastable.js
+END
+jquery-ui-1.8.16.custom.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/92/trunk/osfletes/src/main/webapp/static/js/jquery-ui-1.8.16.custom.min.js
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/92/trunk/osfletes/src/main/webapp/static/js/jquery.js
+END
+provider-created-offers.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/provider-created-offers.js
+END
+provider-awarded-offers.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/provider-awarded-offers.js
+END
+offers.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/offers.js
+END
+client-canceled-announcements.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/client-canceled-announcements.js
+END
+busqueda-anuncios.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/92/trunk/osfletes/src/main/webapp/static/js/busqueda-anuncios.js
+END
+header.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/105/trunk/osfletes/src/main/webapp/static/js/header.js
+END
+jquery-ui.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/92/trunk/osfletes/src/main/webapp/static/js/jquery-ui.js
+END
+client-inbox.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/client-inbox.js
+END
+client-announcements-search.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/111/trunk/osfletes/src/main/webapp/static/js/client-announcements-search.js
+END
+admin-logbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/admin-logbar.js
+END
+filtro.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/92/trunk/osfletes/src/main/webapp/static/js/filtro.js
+END
+client-prov-selected-announcements.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/client-prov-selected-announcements.js
+END
+jquery-1.6.2.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/92/trunk/osfletes/src/main/webapp/static/js/jquery-1.6.2.min.js
+END
+logbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/logbar.js
+END
+provider-inbox.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/111/trunk/osfletes/src/main/webapp/static/js/provider-inbox.js
+END
+provider-announcements-search.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/provider-announcements-search.js
+END
+busqueda.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/112/trunk/osfletes/src/main/webapp/static/js/busqueda.js
+END
+abm-user.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/104/trunk/osfletes/src/main/webapp/static/js/abm-user.js
+END
+announcements.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/announcements.js
+END
+admin-board.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/111/trunk/osfletes/src/main/webapp/static/js/admin-board.js
+END
+select-offer.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/select-offer.js
+END
+client-offer-search.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/client-offer-search.js
+END
+signup-client.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/103/trunk/osfletes/src/main/webapp/static/js/signup-client.js
+END
+client-logbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/client-logbar.js
+END
+ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/112/trunk/osfletes/src/main/webapp/static/js/ajax.js
+END
+modal-pop.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/modal-pop.js
+END
+tabs.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/tabs.js
+END
+provider.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/104/trunk/osfletes/src/main/webapp/static/js/provider.js
+END
+create-announcement.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/112/trunk/osfletes/src/main/webapp/static/js/create-announcement.js
+END
+provider-canceled-by-client-offers.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/provider-canceled-by-client-offers.js
+END
+provider-offer-search.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/provider-offer-search.js
+END
+anuncio.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/92/trunk/osfletes/src/main/webapp/static/js/anuncio.js
+END
+signup-provider.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/104/trunk/osfletes/src/main/webapp/static/js/signup-provider.js
+END
+client-deleted-announcements.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/client-deleted-announcements.js
+END
+provider-logbar.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/provider-logbar.js
+END
+abm-role.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/108/trunk/osfletes/src/main/webapp/static/js/abm-role.js
+END
+client-created-announcements.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/client-created-announcements.js
+END
+client-closed-announcements.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/115/trunk/osfletes/src/main/webapp/static/js/client-closed-announcements.js
+END
+contracts.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/contracts.js
+END
+contracts-search.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/116/trunk/osfletes/src/main/webapp/static/js/contracts-search.js
+END

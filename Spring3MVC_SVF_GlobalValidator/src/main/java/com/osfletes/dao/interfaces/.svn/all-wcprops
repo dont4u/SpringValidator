@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/dao/interfaces
+END
+IGenericDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/53/trunk/osfletes/src/main/java/com/osfletes/dao/interfaces/IGenericDAO.java
+END
+IContractDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/dao/interfaces/IContractDAO.java
+END
+IUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/104/trunk/osfletes/src/main/java/com/osfletes/dao/interfaces/IUserDAO.java
+END
+AnuncioMultipleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/dao/interfaces/AnuncioMultipleDAO.java
+END
+IRoleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/105/trunk/osfletes/src/main/java/com/osfletes/dao/interfaces/IRoleDAO.java
+END

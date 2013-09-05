@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate
+END
+AnuncioDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/83/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/AnuncioDAO.java
+END
+ContractDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/ContractDAO.java
+END
+UserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/104/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/UserDAO.java
+END
+GenericHibernateDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/GenericHibernateDAO.java
+END
+DireccionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/53/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/DireccionDAO.java
+END
+OfertaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/OfertaDAO.java
+END
+RoleDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/105/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/RoleDAO.java
+END
+ClienteDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/107/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/ClienteDAO.java
+END
+ProveedorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/107/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/ProveedorDAO.java
+END
+AnuncioMultipleLocalizadoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/116/trunk/osfletes/src/main/java/com/osfletes/dao/hibernate/AnuncioMultipleLocalizadoDAO.java
+END

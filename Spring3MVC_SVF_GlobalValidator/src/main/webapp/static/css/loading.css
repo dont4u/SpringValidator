@@ -1,0 +1,21 @@
+#loading{
+	display: none;
+}
+*.loading-indicator {
+	background-image: url("../imagenes/loading.gif");
+	width: 31px;
+	height: 31px;
+	margin: auto;	
+}
+
+
+*.loading-indicator-overlay {
+	background-color:#EEEEEE;
+	border:1px solid #CCCCCC;
+	height:31px;
+	width:200px;
+	position:fixed;
+	display:table;
+	text-align:center;
+	line-height: 50px;
+}

@@ -1,0 +1,1 @@
+<div style="margin:auto;width:300px;"><img src="static/imagenes/in_progress.jpg" style="width:300px;"/></div>

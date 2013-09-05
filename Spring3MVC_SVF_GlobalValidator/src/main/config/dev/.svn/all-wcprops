@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/105/trunk/osfletes/src/main/config/dev
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/105/trunk/osfletes/src/main/config/dev/db.properties
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/91/trunk/osfletes/src/main/config/dev/logging.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/91/trunk/osfletes/src/main/config/dev/log4j.properties
+END

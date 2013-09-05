@@ -1,0 +1,510 @@
+[2013-08-30 13:45:03 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-08-30 13:45:03 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_InitBinder", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/sca-translate.log", "-source", "1.7", "-cp", "/Users/alvaro/.m2/repository/org/hibernate/hibernate-core/4.2.1.Final/hibernate-core-4.2.1.Final.jar:/Users/alvaro/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar:/Users/alvaro/.m2/repository/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar:/Users/alvaro/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar:/Users/alvaro/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final/jboss-transaction-api_1.1_spec-1.0.1.Final.jar:/Users/alvaro/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar:/Users/alvaro/.m2/repository/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar:/Users/alvaro/.m2/repository/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar:/Users/alvaro/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar:/Users/alvaro/.m2/repository/org/hibernate/hibernate-validator/4.3.0.Final/hibernate-validator-4.3.0.Final.jar:/Users/alvaro/.m2/repository/org/hibernate/hibernate-entitymanager/4.2.1.Final/hibernate-entitymanager-4.2.1.Final.jar:/Users/alvaro/.m2/repository/mysql/mysql-connector-java/5.1.25/mysql-connector-java-5.1.25.jar:/Users/alvaro/.m2/repository/org/springframework/spring-webmvc/3.2.2.RELEASE/spring-webmvc-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-beans/3.2.2.RELEASE/spring-beans-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-context/3.2.2.RELEASE/spring-context-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-core/3.2.2.RELEASE/spring-core-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/alvaro/.m2/repository/org/springframework/spring-expression/3.2.2.RELEASE/spring-expression-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-web/3.2.2.RELEASE/spring-web-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/alvaro/.m2/repository/org/springframework/data/spring-data-jpa/1.3.2.RELEASE/spring-data-jpa-1.3.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/data/spring-data-commons/1.5.1.RELEASE/spring-data-commons-1.5.1.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-orm/3.1.4.RELEASE/spring-orm-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-jdbc/3.1.4.RELEASE/spring-jdbc-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-aop/3.1.4.RELEASE/spring-aop-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-tx/3.1.4.RELEASE/spring-tx-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/aspectj/aspectjrt/1.7.2/aspectjrt-1.7.2.jar:/Users/alvaro/.m2/repository/org/slf4j/slf4j-api/1.7.1/slf4j-api-1.7.1.jar:/Users/alvaro/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar:/Users/alvaro/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar", "-java-build-dir", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/classes", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java"]
+[2013-08-30 13:45:03 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-08-30 13:45:03 Thread-12 Master INFO]
+Translating 10 java files
+[2013-08-30 13:45:03 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/controller/NavigationController.java
+[2013-08-30 13:45:04 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/controller/ShopController.java
+[2013-08-30 13:45:04 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/exception/ShopNotFound.java
+[2013-08-30 13:45:04 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/init/Initializer.java
+[2013-08-30 13:45:04 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/init/WebAppConfig.java
+[2013-08-30 13:45:04 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/model/Shop.java
+[2013-08-30 13:45:04 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/repository/ShopRepository.java
+[2013-08-30 13:45:04 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/service/ShopService.java
+[2013-08-30 13:45:04 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/service/ShopServiceImpl.java
+[2013-08-30 13:45:04 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/validation/ShopValidator.java
+[2013-08-30 13:45:04 Thread-12 Master INFO]
+Front End complete
+[2013-08-30 13:45:07 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-08-30 13:45:07 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_InitBinder", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/sca-translate.log", "-source", "1.7", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data", "-cp", ":/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/classes", "-extdirs", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/lib"]
+[2013-08-30 13:45:07 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-08-30 13:45:08 Thread-12 Master INFO]
+Translating 4 jsp files
+[2013-08-30 13:45:08 Thread-12 Master INFO 1450]
+Processing shop-edit.jsp
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:12
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:17
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:18
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:22
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:23
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:12
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:33
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master INFO 1450]
+Processing shop-new.jsp
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:12
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:17
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:18
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:22
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:23
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:12
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:33
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master INFO 1450]
+Processing shop-list.jsp
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:19
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:21
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:22
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:23
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:25
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:25
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:26
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:26
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:19
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:32
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master INFO 1450]
+Processing index.jsp
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:13
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:14
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:15
+[2013-08-30 13:45:08 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:45:08 Thread-12 Master INFO]
+Front End complete
+[2013-08-30 13:48:16 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-08-30 13:48:16 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_InitBinder", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/sca-translate.log", "-source", "1.7", "-cp", "/Users/alvaro/.m2/repository/org/hibernate/hibernate-core/4.2.1.Final/hibernate-core-4.2.1.Final.jar:/Users/alvaro/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar:/Users/alvaro/.m2/repository/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar:/Users/alvaro/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar:/Users/alvaro/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final/jboss-transaction-api_1.1_spec-1.0.1.Final.jar:/Users/alvaro/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar:/Users/alvaro/.m2/repository/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar:/Users/alvaro/.m2/repository/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar:/Users/alvaro/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar:/Users/alvaro/.m2/repository/org/hibernate/hibernate-validator/4.3.0.Final/hibernate-validator-4.3.0.Final.jar:/Users/alvaro/.m2/repository/org/hibernate/hibernate-entitymanager/4.2.1.Final/hibernate-entitymanager-4.2.1.Final.jar:/Users/alvaro/.m2/repository/mysql/mysql-connector-java/5.1.25/mysql-connector-java-5.1.25.jar:/Users/alvaro/.m2/repository/org/springframework/spring-webmvc/3.2.2.RELEASE/spring-webmvc-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-beans/3.2.2.RELEASE/spring-beans-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-context/3.2.2.RELEASE/spring-context-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-core/3.2.2.RELEASE/spring-core-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/alvaro/.m2/repository/org/springframework/spring-expression/3.2.2.RELEASE/spring-expression-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-web/3.2.2.RELEASE/spring-web-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/alvaro/.m2/repository/org/springframework/data/spring-data-jpa/1.3.2.RELEASE/spring-data-jpa-1.3.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/data/spring-data-commons/1.5.1.RELEASE/spring-data-commons-1.5.1.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-orm/3.1.4.RELEASE/spring-orm-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-jdbc/3.1.4.RELEASE/spring-jdbc-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-aop/3.1.4.RELEASE/spring-aop-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-tx/3.1.4.RELEASE/spring-tx-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/aspectj/aspectjrt/1.7.2/aspectjrt-1.7.2.jar:/Users/alvaro/.m2/repository/org/slf4j/slf4j-api/1.7.1/slf4j-api-1.7.1.jar:/Users/alvaro/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar:/Users/alvaro/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar", "-java-build-dir", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/classes", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java"]
+[2013-08-30 13:48:16 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-08-30 13:48:17 Thread-12 Master INFO]
+Translating 10 java files
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/controller/NavigationController.java
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/controller/ShopController.java
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/exception/ShopNotFound.java
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/init/Initializer.java
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/init/WebAppConfig.java
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/model/Shop.java
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/repository/ShopRepository.java
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/service/ShopService.java
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/service/ShopServiceImpl.java
+[2013-08-30 13:48:17 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/src/main/java/com/spr/validation/ShopValidator.java
+[2013-08-30 13:48:18 Thread-12 Master INFO]
+Front End complete
+[2013-08-30 13:48:20 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-08-30 13:48:20 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_JSR303_InitBinder", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/sca-translate.log", "-source", "1.7", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data", "-cp", ":/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/classes", "-extdirs", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/lib"]
+[2013-08-30 13:48:20 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-08-30 13:48:21 Thread-12 Master INFO]
+Translating 4 jsp files
+[2013-08-30 13:48:21 Thread-12 Master INFO 1450]
+Processing shop-edit.jsp
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:12
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:17
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:18
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:22
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:23
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:12
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:33
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master INFO 1450]
+Processing shop-new.jsp
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:12
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:17
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:18
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:22
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:23
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:12
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:33
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master INFO 1450]
+Processing shop-list.jsp
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:19
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:21
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:22
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:23
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:25
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:25
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:26
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:26
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:19
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:32
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master INFO 1450]
+Processing index.jsp
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:13
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:14
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:15
+[2013-08-30 13:48:21 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_JSR303_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-08-30 13:48:21 Thread-12 Master INFO]
+Front End complete
+[2013-09-03 17:51:39 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-09-03 17:51:39 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_SVF_InitBinder", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/sca-translate.log", "-source", "1.7", "-cp", "/Users/alvaro/.m2/repository/org/hibernate/hibernate-core/4.2.1.Final/hibernate-core-4.2.1.Final.jar:/Users/alvaro/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar:/Users/alvaro/.m2/repository/org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar:/Users/alvaro/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar:/Users/alvaro/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.1.Final/jboss-transaction-api_1.1_spec-1.0.1.Final.jar:/Users/alvaro/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.1.Final/hibernate-jpa-2.0-api-1.0.1.Final.jar:/Users/alvaro/.m2/repository/org/javassist/javassist/3.15.0-GA/javassist-3.15.0-GA.jar:/Users/alvaro/.m2/repository/org/hibernate/common/hibernate-commons-annotations/4.0.1.Final/hibernate-commons-annotations-4.0.1.Final.jar:/Users/alvaro/.m2/repository/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.jar:/Users/alvaro/.m2/repository/org/hibernate/hibernate-validator/4.3.0.Final/hibernate-validator-4.3.0.Final.jar:/Users/alvaro/.m2/repository/org/hibernate/hibernate-entitymanager/4.2.1.Final/hibernate-entitymanager-4.2.1.Final.jar:/Users/alvaro/.m2/repository/mysql/mysql-connector-java/5.1.25/mysql-connector-java-5.1.25.jar:/Users/alvaro/.m2/repository/org/springframework/spring-webmvc/3.2.2.RELEASE/spring-webmvc-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-beans/3.2.2.RELEASE/spring-beans-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-context/3.2.2.RELEASE/spring-context-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-core/3.2.2.RELEASE/spring-core-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar:/Users/alvaro/.m2/repository/org/springframework/spring-expression/3.2.2.RELEASE/spring-expression-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-web/3.2.2.RELEASE/spring-web-3.2.2.RELEASE.jar:/Users/alvaro/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar:/Users/alvaro/.m2/repository/org/springframework/data/spring-data-jpa/1.3.2.RELEASE/spring-data-jpa-1.3.2.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/data/spring-data-commons/1.5.1.RELEASE/spring-data-commons-1.5.1.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-orm/3.1.4.RELEASE/spring-orm-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-jdbc/3.1.4.RELEASE/spring-jdbc-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-aop/3.1.4.RELEASE/spring-aop-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/springframework/spring-tx/3.1.4.RELEASE/spring-tx-3.1.4.RELEASE.jar:/Users/alvaro/.m2/repository/org/aspectj/aspectjrt/1.7.2/aspectjrt-1.7.2.jar:/Users/alvaro/.m2/repository/org/slf4j/slf4j-api/1.7.1/slf4j-api-1.7.1.jar:/Users/alvaro/.m2/repository/javax/servlet/javax.servlet-api/3.0.1/javax.servlet-api-3.0.1.jar:/Users/alvaro/.m2/repository/jstl/jstl/1.2/jstl-1.2.jar", "-java-build-dir", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/classes", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java"]
+[2013-09-03 17:51:39 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-09-03 17:51:40 Thread-12 Master INFO]
+Translating 10 java files
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/controller/NavigationController.java
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/controller/ShopController.java
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/exception/ShopNotFound.java
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/init/Initializer.java
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/init/WebAppConfig.java
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/model/Shop.java
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/repository/ShopRepository.java
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/service/ShopService.java
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/service/ShopServiceImpl.java
+[2013-09-03 17:51:40 Thread-12 Master INFO 1450]
+Processing /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/src/main/java/com/spr/validation/ShopValidator.java
+[2013-09-03 17:51:41 Thread-12 Master INFO]
+Front End complete
+[2013-09-03 17:51:44 Thread-12 Master INFO]
+Fortify Static Code Analyzer 6.00.201308292057
+[2013-09-03 17:51:44 Thread-12 Master INFO]
+Args:
+["-64", "-version", "-verbose", "-quiet", "-b", "Spring3MVC_SVF_InitBinder", "-logfile", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/sca-translate.log", "-source", "1.7", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data", "-cp", ":/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/classes", "-extdirs", "/Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/lib"]
+[2013-09-03 17:51:44 Thread-12 Master INFO]
+VM Args:
+"-ea -Dcom.sun.management.jmxremote=true -XX:SoftRefLRUPolicyMSPerMB=100 -Xmx3G -Xss1M -Xms300M -client -d64"
+[2013-09-03 17:51:44 Thread-12 Master INFO]
+Translating 4 jsp files
+[2013-09-03 17:51:45 Thread-12 Master INFO 1450]
+Processing index.jsp
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:13
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:14
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:15
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/index.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master INFO 1450]
+Processing shop-new.jsp
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:12
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:17
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:18
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:22
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:23
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:12
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:33
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-new.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master INFO 1450]
+Processing shop-edit.jsp
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:12
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:17
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:18
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:22
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:23
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:12
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:33
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-edit.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master INFO 1450]
+Processing shop-list.jsp
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.initialize at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: HttpServletRequest.getSession at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletContext at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getServletConfig at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: PageContext.getException at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:19
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:21
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:22
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:23
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:25
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:25
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:26
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.jsp.tagext.BodyContent.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:26
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:19
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: JspWriter.print at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:32
+[2013-09-03 17:51:45 Thread-12 Master WARNING]
+Unable to resolve function call: javax.servlet.http.HttpServlet.init^ at: /Users/alvaro/Development/GitRepos/SpringValidators/Spring3MVC_SVF_InitBinder/target/dpr-data/WEB-INF/pages/shop-list.jsp:1
+[2013-09-03 17:51:45 Thread-12 Master INFO]
+Front End complete
